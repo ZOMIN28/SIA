@@ -24,7 +24,7 @@ transformers       4.45.2
 
 All results reported in this work can be fully reproduced using the provided code repository. The reproduction procedure is as follows:
 
-Place the [https://www.kaggle.com/competitions/dlmmdd-workshop-synthetic-source-attribution-challenge/data](official dataset) in the `dataset/` directory.
+Place the [official dataset](https://www.kaggle.com/competitions/dlmmdd-workshop-synthetic-source-attribution-challenge/data) in the `dataset/` directory.
 
 **Train the four baseline classification models** (FFT-ConvNeXt, DINOv2, CLIP, and Xception) with K-fold cross-validation by running:
 
